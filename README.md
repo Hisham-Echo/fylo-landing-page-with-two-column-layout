@@ -91,4 +91,4 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 **Have fun building!** 🚀
 
-[**Live Preview**](https://hisham-echo.github.io/fylo-landing-page)
+[**Live Preview**](https://hisham-echo.github.io/fylo-landing-page-with-two-column-layout)
