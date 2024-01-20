@@ -473,10 +473,24 @@ footer .links i:hover {
     footer .logo {
         width: 20%;
     }
-    footer .txt .links {
+
+    footer .txt {
         display: flex;
-        flex-flow: row wrap;
         justify-content: space-between;
+    }
+
+    footer .txt > .contact {
+        margin-right: 10%;
+    }
+
+    footer .txt .links {
+        flex: 1;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    footer .txt .links div:not(:last-child) {
+        width: 30%;
     }
 }
 
